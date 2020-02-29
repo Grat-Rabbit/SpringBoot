@@ -1,6 +1,10 @@
 # "# SpringBoot"
 ## 编写目的：
         集成了一些方便使用的功能类，下次用的时候直接套入这个模板即可<br>  
+## 目前已经集成的小功能：
+        * 1.实现简易jwt
+        * 2.在controller可直接获取json数据
+        * 3.全局异常捕捉
 `注意点`：<br>  
 * 1.在controller中有一个测试jwt的方法：`token`<br>  
 >先决条件：数据库库名为：test,表名为:user，列名有userid和password<br>  
