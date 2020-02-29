@@ -1,4 +1,5 @@
-"# SpringBoot-"\n 
+"# SpringBoot-"
+
 编写目的：集成了一些方便使用的功能类，下次用的时候直接套入这个模板即可
 
 "# SpringBoot-" \n
